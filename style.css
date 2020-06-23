@@ -6,6 +6,22 @@ body{
 
 }
 
+.button {
+    background-color: red;
+    border: 2px;
+    padding: 15px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 22px;
+    margin: 10px auto 10px auto;
+    padding: 10px auto 10px auto;
+    border-radius: 20px;
+    
+}
+
+.button a{
+    color: white;
+}
 .head{
     border: 1px solid #333;
     margin-top: 100px;
